@@ -23,7 +23,7 @@ The first solution code turns out the following elapsed time results per year:
 
 In the script refactored, we looped through the data and collected all information in arrays (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices). With the use of “For” loops, the code loop through the arrays to output the “Ticker,” “Total Daily Volume,” and “Return” columns in the spreadsheet “All Stock Analysis”.
 
-<img src="Resources/code_segment.PNG" width="450" />
+<img src="Resources/code_segment.PNG" width="650" />
 
 Finally, our solution code turns out the elapsed time results per year showed below, so it now runs faster than it did in the first sprint.
 
