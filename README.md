@@ -15,7 +15,7 @@ In this second sprint, we are going to refactor our solution code to loop throug
 
 The first solution code turns out the following elapsed time results per year:
 
-<img src="Resources/Stock_Outcomes_2017_Mod1.PNG" width="300" />
+<img src="Resources/Stock_Outcomes_2017_Mod1.PNG" width="450" />
 
 <img src="Resources/Stock_Outcomes_2018_Mod1.PNG" width="300" />
 
