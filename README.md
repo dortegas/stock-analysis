@@ -1,9 +1,12 @@
 # Stock-Analysis
 
 ## Overview of Project
-Steve's parents want to invest their money into Daqo New energy Corporation (DQ) that makes silicon wafers for solar panels. Steve asked us to help analyze a green energy stock because he is concerned about diversifying his parent’s funds. 
-In the first sprint project, we performed this data analysis through Visual Basic for Applications (a.k.a. VBA) so that we were able to write code that automates these analyses for us. Using VBA code to automate tasks decreases the chance of errors and reduces the time needed to run analyses, especially if they need be done repeatedly. The result of this sprint was a workbook where at the click of a button, he can analyze the entire dataset getting the daily volume a return by ticker per year. 
+Steve's parents want to invest their money into Daqo New energy Corporation (DQ) that makes silicon wafers for solar panels. Steve asked us to help analyze a green energy stock because he is concerned about diversifying his parent’s funds.
+
+In the first sprint project, we performed this data analysis through Visual Basic for Applications (a.k.a. VBA) so that we were able to write code that automates these analyses for us. Using VBA code to automate tasks decreases the chance of errors and reduces the time needed to run analyses, especially if they need be done repeatedly. The result of this sprint was a workbook where at the click of a button, he can analyze the entire dataset getting the daily volume a return by ticker per year.
+
 Steve wants to expand the dataset including the entire stock market over the last few years. Although our code works well for a dozen stocks, it might not work as well for thousands of stocks. And if it does, it may take a long time to execute and likely it may take a long time to execute.
+
 In this second sprint, we are going to refactor our solution code to loop through all the data one time to collect the same information that we did in the first sprint. Then we will determine whether refactoring our code successfully made our VBA script run faster.
 
 ## Results
