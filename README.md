@@ -17,19 +17,19 @@ The first solution code turns out the following elapsed time results per year:
 
 <img src="Resources/Stock_Outcomes_2017_Mod1.PNG" width="500" />
 
-<img src="Resources/Stock_Outcomes_2018_Mod1.PNG" width="300" />
+<img src="Resources/Stock_Outcomes_2018_Mod1.PNG" width="500" />
 
 ### Elapsed Time for 2017 and 2018 - sprint 2
 
 In the script refactored, we looped through the data and collected all information in arrays (tickers, tickerVolumes, tickerStartingPrices, and tickerEndingPrices). With the use of “For” loops, the code loop through the arrays to output the “Ticker,” “Total Daily Volume,” and “Return” columns in the spreadsheet “All Stock Analysis”.
 
-<img src="Resources/code_segment.PNG" />
+<img src="Resources/code_segment.PNG" width="450" />
 
 Finally, our solution code turns out the elapsed time results per year showed below, so it now runs faster than it did in the first sprint.
 
-<img src="Resources/VBA_Challenge_2017.PNG" width="300" />
+<img src="Resources/VBA_Challenge_2017.PNG" width="500" />
 
-<img src="Resources/VBA_Challenge_2018.PNG" width="300" />
+<img src="Resources/VBA_Challenge_2018.PNG" width="500" />
 
 ## Summary
 
